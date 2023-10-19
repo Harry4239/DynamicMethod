@@ -1,0 +1,8 @@
+
+DynamicMethod/.idea/*
+DynamicMethod/*/bin/*
+DynamicMethod/*/obj/*
+
+/*/*/bin/*
+/*/*/obj/*
+DynamicMethod/*/bin/*
